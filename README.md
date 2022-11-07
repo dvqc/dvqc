@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim 
-- 👀 I’m a Web development freelancer 
+- 👀 I’m a full-stack web developer
 - 🚀 My main stack is next.js with typescript, sass or tailwind, prisma and postgres
 <!---
 dvqc/dvqc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
